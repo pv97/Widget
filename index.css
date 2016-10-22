@@ -1,0 +1,37 @@
+.tab-header {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: flex;
+  padding: 5px;
+  width: 200px;
+  margin: 0 auto;
+}
+
+#tab-article{
+  border: 1px solid black;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
+  margin: 10px;
+}
+
+#root2{
+  font-family: 'Gloria Hallelujah', cursive;
+  border: 8px solid green;
+  padding: 7px;
+  margin:10px;
+  border-radius: 7.234px;
+  background: orange;
+  width: 500px;
+}
+
+#root3{
+  border: 11px solid blue;
+  padding: 7px;
+  font-weight: 700;
+  margin:10px;
+  border-radius: 7.234px;
+  background: pink;
+  width: 500px;
+}
